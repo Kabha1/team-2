@@ -1,1 +1,3 @@
-# team-2
+Team-2
+
+DevOps Lab 6
